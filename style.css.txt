@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #0077b6;
+    color: white;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #ffdd00;
+    font-weight: bold;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.member-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.member-list li {
+    margin: 10px 0;
+}

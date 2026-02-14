@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Kỷ yếu số - Lớp 12A1</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header>
+        <h1>KỶ YẾU SỐ - LỚP 12A1</h1>
+        <p>Thanh xuân của chúng ta 💙</p>
+    </header>
+
+    <section class="class-photo">
+        <h2>Ảnh tập thể</h2>
+        <img src="images/anh_tap_the.jpg" alt="Ảnh tập thể lớp" width="500">
+    </section>
+
+    <section class="member-list">
+        <h2>Danh sách thành viên</h2>
+        <ul>
+            <li><a href="members/nguyen_van_a.html">Nguyễn Văn A</a></li>
+            <li><a href="members/tran_thi_b.html">Trần Thị B</a></li>
+        </ul>
+    </section>
+
+</body>
+</html>
